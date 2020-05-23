@@ -1,8 +1,7 @@
 # Welcome to Jekyll!
 title: Online &hearts; Resume
-url:"http://md-hasanur-rahman.github.io"
+url:
 baseurl:
-markdown: kramdown
 # Sass setting
 sass:
   sass_dir: _sass

@@ -1,6 +1,6 @@
 intro:
   name: Md. Hasanur Rahman
-  title: Software Engineer
+  title: Software Engineer at Samsung R&D Institute, Bangladesh
   avatar:
     display: true
     path: profile.png
@@ -12,8 +12,8 @@ contact:
   telegram:
   website: example.com
   medium:
-  linkedin:
-  github: hasan75
+  linkedin: md-hasanur-rahman
+  github: hasanur-rahman
   gitlab:
   bitbucket:
   twitter: twitter

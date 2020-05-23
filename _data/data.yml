@@ -34,9 +34,13 @@ interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Football
       link:
-    - item: Cooking
+    - item: Cricket
+      link:
+    - item: Traveling
+      link:
+    - item: Cycling
       link:
 
 profile:
@@ -53,55 +57,24 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: Bangladesh University of Engineering & Technology
+      time: 2015 - 2019
+      major: Computer Science & Engineering
+      degree: BSc
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+        I have completed my graduation on 28 april, 2019. Throughout the 4 years, I loved the contest programming a lot.
 
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Software Developer
+      time: 2019.05 - present
+      company: Samsung R&D Institue, Bangladesh
       tag:
-      location: Beijing
+      location: Dhaka
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+        I am working on an iOS project here.
 
 projects:
   display: true
@@ -140,11 +113,8 @@ skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
+    I have done my projects using this language:
+    + Languages: C, C++, Java, Python, Javascript, Swift, Objective-C
 
 evaluation:
   display: true

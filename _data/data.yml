@@ -1,12 +1,12 @@
 intro:
-  name: Foo Bar
+  name: Md. Hasanur Rahman
   title: Backend Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
+  email: hasanurrahman690@gmail.com
   phone: +86-111-2222-3333
   whatsapp:
   telegram:

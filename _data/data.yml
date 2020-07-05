@@ -80,13 +80,18 @@ projects:
   display: true
   title: Projects
   intro: |
-    This is all the projects I'm involved in.
+    These are all projects I'm involved in.
 
   items:
     - name: Disease prediction BOT
       link: https://github.com/hasanur-rahman/Disease-Prediction-BOT
       details: |
         I as part of a team contributed to this project for a hackathon.
+  items:
+    - name: Ecommerce App with MySQL
+      link: https://github.com/hasanur-rahman/ECommerce-app-using-Online-MySQL
+      details: |
+        I developed this app as a term final project.
 
 publications:
   display: true

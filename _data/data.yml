@@ -83,15 +83,10 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Disease prediction BOT
+      link: https://github.com/hasanur-rahman/Disease-Prediction-BOT
       details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
+        I as part of a team contributed to this project for a hackathon.
 
 publications:
   display: true

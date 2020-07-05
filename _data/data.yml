@@ -79,8 +79,6 @@ experiences:
 projects:
   display: true
   title: Projects
-  intro: |
-    These are all projects I'm involved in.
 
   items:
     - name: Disease prediction BOT

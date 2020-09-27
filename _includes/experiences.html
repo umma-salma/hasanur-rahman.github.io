@@ -10,7 +10,7 @@
 
         <div class="upper-row">
             <div class="company">
-                {{ experience.company }}
+                {{ experience.role }}
                 {% if experience.tag %}
                 <small>[{{ experience.tag }}]</small>
                 {% endif %}
@@ -19,7 +19,7 @@
         </div>
 
         <div class="upper-row">
-            <div class="role">{{ experience.role }}</div>
+            <div class="role">{{ experience.company }}</div>
             <div class="location">{{ experience.location }}</div>
         </div>
 

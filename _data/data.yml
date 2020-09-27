@@ -60,8 +60,8 @@ education:
   items:
     - university: Bangladesh University of Engineering & Technology
       time: 2015 - 2019
-      major: Computer Science & Engineering
-      degree: BSc
+      major: BSc in Computer Science & Engineering
+      degree:
       details: |
         I have completed my graduation on 28 april, 2019. Throughout the 4 years, I loved the contest programming a lot.
 
@@ -73,7 +73,7 @@ experiences:
       time: May. 2019 - present
       company: Samsung R&D Institue, Bangladesh
       tag:
-      location: Bangladesh
+      location:
       details: |
         I am working here on an iOS project. I am basically developing backend features in my project. I've already implemented Affiliation, a feature
         by which an user can opt-out from a group if he/she doesn't to be notified for the events i the group. Now I am implementing dynamic VPN configuration for my project using IKEv2 protocol and NEVpnManager in Swift.

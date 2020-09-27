@@ -110,7 +110,7 @@ certificates:
     - name: Neural Networks and Deep Learning
       link: https://www.coursera.org/account/accomplishments/certificate/3V5VZEXPZ3LP
       details: |
-        <a href="https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Deep%20Neural%20Network%20from%20scratch" style="color:darkslategrey">Assignments</a>
+        <a href="https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Deep%20Neural%20Network%20from%20scratch" style="color:#8FBC8F";>Assignments</a>
 
     - name: Hyperparameter tuning, Regularization andOptimization
       link: https://www.coursera.org/account/accomplishments/certificate/V8G267CCG6C2

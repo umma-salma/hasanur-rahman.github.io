@@ -86,18 +86,18 @@ projects:
   title: Projects
 
   items:
-    - name: Disease prediction BOT
+    - name: • Disease prediction BOT
       link: https://github.com/hasanur-rahman/Disease-Prediction-BOT
       details: |
         This project is designed for Tadhack Hackathon, 2018. I, with 3 other classmates, participated in this hackathon. The idea was to predict a disease given some symptoms.
         We became 2nd runner up in that competition.
 
-    - name: Computer vision projects
+    - name: • Computer vision projects
       link: https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Convolutional%20Neural%20Network%20Projects
       details: |
         I've accomplished these projects as a part Coursera <a href="https://www.coursera.org/learn/convolutional-neural-networks" style="color:black">Convolutional Neural Networks</a> course. 
         
-    - name: Ecommerce Android App 
+    - name: • Ecommerce Android App 
       link: https://github.com/hasanur-rahman/ECommerce-app-using-Online-MySQL
       details: |
         I along with my other classmate developed this app as a term final project. This app is incorporated with offline My-SQL database.
@@ -107,27 +107,27 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: Neural Networks and Deep Learning
+    - name: • Neural Networks and Deep Learning
       link: https://www.coursera.org/account/accomplishments/certificate/3V5VZEXPZ3LP
       details: |
         <a href="https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Deep%20Neural%20Network%20from%20scratch" style="color:#8FBC8F;">Assignments</a>
 
-    - name: Hyperparameter tuning, Regularization andOptimization
+    - name: • Hyperparameter tuning, Regularization andOptimization
       link: https://www.coursera.org/account/accomplishments/certificate/V8G267CCG6C2
       details: |
         <a href="https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Parameters%20Tuning" style="color:#8FBC8F;">Assignments</a>
 
-    - name: Convolutional Neural Networks
+    - name: • Convolutional Neural Networks
       link: https://www.coursera.org/account/accomplishments/certificate/9UFEW94V5XDR
       details: |
         <a href="https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Convolutional%20Neural%20Network%20Projects" style="color:#8FBC8F;">Assignments</a>
 
-    - name: Text Retrieval and Search Engines
+    - name: • Text Retrieval and Search Engines
       link: https://www.coursera.org/account/accomplishments/certificate/YPCG959L6MKT
       details: |
         <a href="https://github.com/hasanur-rahman/Data-Mining-Coursera" style="color:#8FBC8F;">Assignments</a>
 
-    - name: Structuring Machine Learning Projects
+    - name: • Structuring Machine Learning Projects
       link: https://www.coursera.org/account/accomplishments/certificate/E9XGJZP7D8XC
       details: |
 

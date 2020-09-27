@@ -177,8 +177,7 @@ skills:
   display: true
   title: Skills
   details: |
-    I have done my projects using this language:
-    + Languages: C, C++, Java, Python, Javascript, Swift, Objective-C
+    + <b> Languages:</b> C, C++, Java, Python, Javascript, Swift, Objective-C
 
 evaluation:
   display: true

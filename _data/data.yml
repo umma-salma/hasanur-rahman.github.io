@@ -67,15 +67,16 @@ education:
 
 experiences:
   display: true
-  title: Experiences
+  title: Work Experience
   items:
-    - role: Software Developer
-      time: 2019.05 - present
+    - role: Jr. Software Engineer
+      time: May. 2019 - present
       company: Samsung R&D Institue, Bangladesh
       tag:
       location: Dhaka
       details: |
-        I am working on an iOS project here.
+        I am working here on an iOS project. I am basically developing backend features in my project. I've already implemented $affiliation$ feature. 
+        Now I am implementing dynamic VPN configuration for my project using IKEv2 protocol and NEVpnManager in Swift.
 
 projects:
   display: true

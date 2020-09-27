@@ -136,22 +136,22 @@ extra_curriculars:
   display: true
   title: Extra-curricular Activities 
   items:
-    - name: 2nd runner up, Tadhack Hackathon (Robi)
+    - name: • 2nd runner up, Tadhack Hackathon (Robi)
       link: 
       details: |
         
 
-    - name: Expert in Codeforces
+    - name: • Expert in Codeforces
       link: 
       details: |
         <a href="https://codeforces.com/profile/mHr029" style="color:#8FBC8F;">Profile</a>
 
-    - name: Ranked around 50 in several intra-university, NCPC, ICPC preliminary contests
+    - name: • Ranked around 50 in several intra-university, NCPC, ICPC preliminary contests
       link: 
       details: |
         I've solved more than 800 problems with various data structures, algorithms and programming languages.
 
-    - name: Several Medium writings
+    - name: • Several Medium writings
       link: 
       details: |
         <a href="https://medium.com/@mhr029" style="color:#8FBC8F;">Profile</a>

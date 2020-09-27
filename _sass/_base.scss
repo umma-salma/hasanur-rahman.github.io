@@ -99,22 +99,10 @@ p {
         color: $text-grey;
     }
 
-    .magicbullets {
-        white-space: pre-line;
-        position: relative;
-        margin-left: 1em;
-    } 
-
-    .magicbullets::before {
-      position: absolute;
-      content: "";
-      display: block;
-      height: 60px;
-      width: 30px;
-      top: 16px;
-      left: -32px;
-      background: radial-gradient(circle, black 10%, transparent 10%), 8px;
-      background-size: 40px 20px;
+    .bullet {
+        content: "•";
+        padding-right: 8px;
+        color: blue;
     }
 
     .role, .major {

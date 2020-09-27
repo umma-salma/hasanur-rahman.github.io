@@ -17,7 +17,7 @@
         {% if certificate.name %}
         <p class="project-name">
             {% if certificate.link %}
-            <a href="{{ certificate.link }}" style="color:black" target="_blank">{{ certificate.name }}</a>
+            <bullet><a href="{{ certificate.link }}" style="color:black" target="_blank">{{ certificate.name }}</a></bullet>
             {% else %}
             {{ certificate.name }}
             {% endif %}

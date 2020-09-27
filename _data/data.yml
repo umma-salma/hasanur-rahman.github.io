@@ -64,7 +64,7 @@ education:
       degree:
       details: |
         In my initial undergrad years, I was more involved in problem solving. I've participated several intra-university, NCPC, ICPC preliminary
-        contests. I've had a decent <a href="https://codeforces.com/profile/mHr029" style="color:#2F4F4F;">codeforces</a> participation. I've also participated in Hackathon. 
+        contests. I've had a decent <a href="https://codeforces.com/profile/mHr029" style="color:#F08080;">codeforces</a> participation. I've also participated in Hackathon. 
         But in recent years, I've been more inclined in AI things. I've accomplished several computer vision projects, deep learning and data mining
         courses.
 
@@ -76,8 +76,8 @@ thesis:
       time:
       tag:
       details: |
-        + Worked under Professor <a href="https://cse.buet.ac.bd/faculty/facdetail.php?id=kaykobad" style="color:#2F4F4F;">Dr. M. Kaykobad</a>
-        + Proposed a modification in <a href="https://www.sciencedirect.com/science/article/abs/pii/0020019075900563" style="color:#2F4F4F;">Yao's algorithm</a>  
+        + Worked under Professor <a href="https://cse.buet.ac.bd/faculty/facdetail.php?id=kaykobad" style="color:#F08080;">Dr. M. Kaykobad</a>
+        + Proposed a modification in <a href="https://www.sciencedirect.com/science/article/abs/pii/0020019075900563" style="color:#F08080;">Yao's algorithm</a>  
 
 experiences:
   display: true

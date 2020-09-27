@@ -13,9 +13,9 @@
     {% endif %}
 
     {% for certificate in certificates.items %}
-    <div class="magicbullets">
+    <div class="item">
         {% if certificate.name %}
-        <p class="project-name">
+        <p class="magicbullets">
             {% if certificate.link %}
             <a href="{{ certificate.link }}" style="color:black" target="_blank">{{ certificate.name }}</a>
             {% else %}

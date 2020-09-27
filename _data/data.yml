@@ -89,12 +89,13 @@ projects:
     - name: Disease prediction BOT
       link: https://github.com/hasanur-rahman/Disease-Prediction-BOT
       details: |
-        I as part of a team contributed to this project for a hackathon.
+        This project is designed for Tadhack Hackathon. I alongside with 3 other classmates participated in this hackathon. The idea was to predict a disease given some symptoms.
+        We became 2nd runner up in that competition.
         
-    - name: Ecommerce App with MySQL
+    - name: Ecommerce Android App 
       link: https://github.com/hasanur-rahman/ECommerce-app-using-Online-MySQL
       details: |
-        I developed this app as a term final project.
+        I along with my other classmate developed this app as a term final project. This app is incorporated with offline My-SQL database.
 
 publications:
   display: true

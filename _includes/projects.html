@@ -17,7 +17,7 @@
         {% if project.name %}
         <p class="project-name">
             {% if project.link %}
-            <a href="{{ project.link }}" target="_blank">{{ project.name }}</a>
+            <a href="{{ project.link }}" style="color:red" target="_blank">{{ project.name }}</a>
             {% else %}
             {{ project.name }}
             {% endif %}

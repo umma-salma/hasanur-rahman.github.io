@@ -1,0 +1,26 @@
+{% assign thesis = data.thesis %}
+{% if thesis and thesis.display %}
+<section class="section experiences-section">
+    <div class="section-title">
+        {{ thesis.title }}
+    </div>
+
+    {% for thes in thesis.items %}
+    <div class="item">
+
+        <div class="upper-row">
+            <div class="role">{{ thes.topic }}</div>
+        </div>
+
+
+        {% if thes.details %}
+        <div class="details" style="padding-left:20px">
+            {{ thes.details | markdownify }}
+        </div>
+        {% endif %}
+
+    </div>
+    {% endfor %}
+
+</section>
+{% endif %}

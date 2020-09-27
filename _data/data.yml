@@ -59,11 +59,14 @@ education:
   title: Education
   items:
     - university: Bangladesh University of Engineering & Technology
-      time: 2015 - 2019
+      time: Feb. 2015 - Apr. 2019
       major: BSc in Computer Science & Engineering
       degree:
       details: |
-        I have completed my graduation on 28 april, 2019. Throughout the 4 years, I loved the contest programming a lot.
+        In my initial undergrad years, I was more involved in problem solving. I've participated several intra-university, NCPC, ICPC preliminary
+        contests. I've had a decent \href{https://codeforces.com/profile/mHr029}{codeforces} rating. I've also participated in Hackathon. 
+        But in recent years, I've been engaged in AI things. I've accomplished several computer vision projects, deep learning and data mining
+        courses.
 
 experiences:
   display: true

@@ -10,17 +10,17 @@
     <div class="item">
 
         <div class="upper-row">
-            <div class="university">{{ graduation.university }}</div>
+            <div class="university">{{ graduation.major}}</div>
             <div class="time">{{ graduation.time }}</div>
         </div>
 
         <div class="upper-row">
-            <div class="major">{{ graduation.major }}</div>
+            <div class="major">{{ graduation.university }}</div>
             <div class="degree">{{ graduation.degree }}</div>
         </div>
 
         {% if graduation.details %}
-        <div class="details">
+        <div class="details" style="padding:15px">
             {{ graduation.details | markdownify }}
         </div>
         {% endif %}

@@ -99,6 +99,12 @@ p {
         color: $text-grey;
     }
 
+    .magicbullets {
+        white-space: pre-line;
+        position: relative;
+        margin-left: 1em;
+    } 
+
     .role, .major {
         font-style: italic;
     }

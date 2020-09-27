@@ -89,8 +89,13 @@ projects:
     - name: Disease prediction BOT
       link: https://github.com/hasanur-rahman/Disease-Prediction-BOT
       details: |
-        This project is designed for Tadhack Hackathon. I alongside with 3 other classmates participated in this hackathon. The idea was to predict a disease given some symptoms.
+        This project is designed for Tadhack Hackathon, 2018. I, with 3 other classmates, participated in this hackathon. The idea was to predict a disease given some symptoms.
         We became 2nd runner up in that competition.
+
+    - name: Computer vision projects
+      link: https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Convolutional%20Neural%20Network%20Projects
+      details: |
+        I've accomplished these projects as a part Coursera <a href="https://www.coursera.org/learn/convolutional-neural-networks" style="color:black">Convolutional Neural Networks</a> course. 
         
     - name: Ecommerce Android App 
       link: https://github.com/hasanur-rahman/ECommerce-app-using-Online-MySQL

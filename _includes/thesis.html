@@ -9,7 +9,13 @@
     <div class="item">
 
         <div class="upper-row">
-            <div class="university">{{ thes.topic }</div>
+            <div class="company">
+                {{ thes.role }}
+                {% if thes.tag %}
+                <small>[{{ thes.tag }}]</small>
+                {% endif %}
+            </div>
+            <div class="time">{{ thes.time }}</div>
         </div>
 
         {% if thes.details %}

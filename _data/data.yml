@@ -73,6 +73,8 @@ thesis:
   title: Undergrad Thesis
   items:
     - topic: Reducing time complexity of finding Minimum Spanning Tree
+      time:
+      tag:
       details: |
         + Worked under Professor <a href="https://cse.buet.ac.bd/faculty/facdetail.php?id=kaykobad" style="color:#2F4F4F;">Dr. M. Kaykobad</a>
         + Proposed a modification in <a href="https://www.sciencedirect.com/science/article/abs/pii/0020019075900563" style="color:#2F4F4F;">Yao's algorithm</a>  

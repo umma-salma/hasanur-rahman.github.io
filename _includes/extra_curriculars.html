@@ -1,0 +1,36 @@
+{% assign extra_curriculars = data.extra_curriculars %}
+{% if extra_curriculars and extra_curriculars.display %}
+<section class="section projects-section">
+
+    <div class="section-title">
+        {{ extra_curriculars.title }}
+    </div>
+
+    {% if extra_curriculars.intro %}
+    <div class="intro">
+        <p>{{ extra_curriculars.intro | markdownify }}</p>
+    </div>
+    {% endif %}
+
+    {% for extra_curricular in extra_curriculars.items %}
+    <div class="item">
+        {% if extra_curricular.name %}
+        <p class="project-name">
+            {% if extra_curricular.link %}
+            <a href="{{ certificate.link }}" style="color:black" target="_blank">{{ extra_curricular.name }}</a>
+            {% else %}
+            {{ extra_curricular.name }}
+            {% endif %}
+        </p>
+
+        {% if extra_curricular.details %}
+        <div class="details" style="padding:5px">
+            {{ extra_curricular.details | markdownify }}
+        </div>
+        {% endif %}
+        {% endif %}
+    </div>
+    {% endfor %}
+
+</section>
+{% endif %}

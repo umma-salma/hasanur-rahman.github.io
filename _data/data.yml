@@ -177,7 +177,9 @@ skills:
   display: true
   title: Skills
   details: |
-    + <b> Languages:</b> C, C++, Java, Python, Javascript, Swift, Objective-C
+    + <b>Language:</b> C, C++, Java, Python, Javascript, Swift, Objective-C
+    + <b>WebDev:</b> HTML, JS
+    + <b>Others:</b> Linux, Git 
 
 evaluation:
   display: true

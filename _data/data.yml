@@ -115,17 +115,17 @@ certificates:
     - name: Hyperparameter tuning, Regularization andOptimization
       link: https://www.coursera.org/account/accomplishments/certificate/V8G267CCG6C2
       details: |
-        <a href="https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Parameters%20Tuning" style="color:black">Assignments</a>
+        <a href="https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Parameters%20Tuning" style="color:#8FBC8F;">Assignments</a>
 
     - name: Convolutional Neural Networks
       link: https://www.coursera.org/account/accomplishments/certificate/9UFEW94V5XDR
       details: |
-        <a href="https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Convolutional%20Neural%20Network%20Projects" style="color:black">Assignments</a>
+        <a href="https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Convolutional%20Neural%20Network%20Projects" style="color:#8FBC8F;">Assignments</a>
 
     - name: Text Retrieval and Search Engines
       link: https://www.coursera.org/account/accomplishments/certificate/YPCG959L6MKT
       details: |
-        <a href="https://github.com/hasanur-rahman/Data-Mining-Coursera">Assignments</a>
+        <a href="https://github.com/hasanur-rahman/Data-Mining-Coursera" style="color:#8FBC8F;">Assignments</a>
 
     - name: Structuring Machine Learning Projects
       link: https://www.coursera.org/account/accomplishments/certificate/E9XGJZP7D8XC

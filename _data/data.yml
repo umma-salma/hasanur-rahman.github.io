@@ -102,6 +102,16 @@ projects:
       details: |
         I along with my other classmate developed this app as a term final project. This app is incorporated with offline My-SQL database.
 
+
+certificates:
+  display: true
+  title: Certificates
+  items:
+    - name: Neural Networks and Deep Learning
+      link: https://www.coursera.org/account/accomplishments/certificate/3V5VZEXPZ3LP
+      details: |
+        <a href="https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Deep%20Neural%20Network%20from%20scratch" style="color:black">Assignments</a>
+
 publications:
   display: true
   title: Publications

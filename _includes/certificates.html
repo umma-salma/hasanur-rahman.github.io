@@ -1,0 +1,36 @@
+{% assign certificates = data.certificates %}
+{% if certificates and certificates.display %}
+<section class="section certificates-section">
+
+    <div class="section-title">
+        {{ certificates.title }}
+    </div>
+
+    {% if certificates.intro %}
+    <div class="intro">
+        <p>{{ certificates.intro | markdownify }}</p>
+    </div>
+    {% endif %}
+
+    {% for certificate in certificates.items %}
+    <div class="item">
+        {% if certificate.name %}
+        <p class="certificate-name">
+            {% if certificate.link %}
+            <a href="{{ certificate.link }}" style="color:black" target="_blank">{{ certificate.name }}</a>
+            {% else %}
+            {{ certificate.name }}
+            {% endif %}
+        </p>
+
+        {% if certificate.details %}
+        <div class="details">
+            {{ certificate.details | markdownify }}
+        </div>
+        {% endif %}
+        {% endif %}
+    </div>
+    {% endfor %}
+
+</section>
+{% endif %}

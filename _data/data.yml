@@ -78,6 +78,12 @@ thesis:
       details: |
         + Worked under Professor <a href="https://cse.buet.ac.bd/faculty/facdetail.php?id=kaykobad" style="color:#F08080;">Dr. M. Kaykobad</a>
         + Proposed a modification in <a href="https://www.sciencedirect.com/science/article/abs/pii/0020019075900563" style="color:#F08080;">Yao's</a> algorithm  
+          Yao used medians of median finding <a href="http://bioinfo.ict.ac.cn/~dbu/AlgorithmCourses/Lectures/Lec15-Selection-Methods-Floyd-Reviest-Blum.pdf" style="color:#F08080;">algorithm</a> to preprocess the adjacency
+          list of each node in a graph. This preprocessing reduces runtime significantly. Then he used familiar <a href="https://www.academia.edu/1380895/Otakar_Boruvka_1899_1995_and_the_Minimum_Spanning_Tree" style="color:#F08080;">Boruvka</a> algorithm 
+          to construct minimum spanning tree. The main idea here was number of components be reduced by at least factor two as an edge weight can be minimum from
+          both side. I exploited this to improve the fact that whether it is possible to do reduction by at least factor three. My idea was to check an edge being minimum from both components. If it is, then we can add another second
+          minimum edge to one of these components at the same step. Thus number of components can be reduced by at least factor three.  
+
 
 experiences:
   display: true
@@ -89,8 +95,9 @@ experiences:
       tag:
       location:
       details: |
-        I am working here on an iOS project. I am basically developing backend features in my project. I've already implemented Affiliation, a feature
-        by which an user can opt-out from a group if he/she doesn't to be notified for the events i the group. Now I am implementing dynamic VPN configuration for my project using IKEv2 protocol and NEVpnManager in Swift.
+        I am working here in an iOS project named MCPTT. It is a USA project. I am involved in developments of several modules here. One of the major modules I've implemented is Affiliation, a feature
+        by which an user can mute a group if s/he doesn't want to be notified for that group events. This feature is similar to facebook messenger group mute option. This feature uses SIP protocol for communicating
+        with server.
 
 projects:
   display: true

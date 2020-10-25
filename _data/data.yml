@@ -109,6 +109,11 @@ projects:
       details: |
         This project is designed for Tadhack Hackathon, 2018. I along with three other classmates, participated in this hackathon. The idea was to predict a disease given some symptoms.
         We became 2nd runner-up in that competition.
+        
+    - name: • Artificial Intelligence projects
+      link: https://github.com/hasanur-rahman/Artificial-Intelligence-Projects
+      details: |
+        I recently invested time to develop several AI and others projects such as image classfications, car sales prediction, movie recommender etc.
 
     - name: • Computer vision projects
       link: https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Convolutional%20Neural%20Network%20Projects

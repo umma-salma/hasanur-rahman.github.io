@@ -63,10 +63,9 @@ education:
       major: BSc in Computer Science & Engineering
       degree:
       details: |
-        In my initial undergrad years, I was more involved in problem solving. I've participated several intra-university, NCPC, ICPC preliminary
+        In my initial undergrad years, I was more involved in problem solving, and learning new data structures, algorithms . I've participated several intra-university, NCPC, ICPC preliminary
         contests. I've had a decent <a href="https://codeforces.com/profile/mHr029" style="color:#F08080;">codeforces</a> participation. I've also participated in Hackathon. 
-        But in recent years, I've been more inclined in AI things. I've accomplished several computer vision projects, deep learning and data mining
-        courses.
+        But in recent years, I have accomplished several artificial intelligence projects.
 
 thesis:
   display: true
@@ -81,8 +80,8 @@ thesis:
           Yao used medians of median finding <a href="http://bioinfo.ict.ac.cn/~dbu/AlgorithmCourses/Lectures/Lec15-Selection-Methods-Floyd-Reviest-Blum.pdf" style="color:#F08080;">algorithm</a> to preprocess the adjacency
           list of each node in a graph. This preprocessing reduces runtime significantly. Then he used familiar <a href="https://www.academia.edu/1380895/Otakar_Boruvka_1899_1995_and_the_Minimum_Spanning_Tree" style="color:#F08080;">Boruvka</a> algorithm 
           to construct minimum spanning tree. The main idea here was number of components be reduced by at least factor two, as an edge weight can be minimum from
-          both side in the worst case. I exploited this to improve the fact that whether it is possible to do reduction by at least factor three. My idea was to check an edge being minimum from both components. If it is, then we can add another second
-          minimum edge to one of these components at the same step. Thus number of components can be reduced by at least factor three.  
+          both side in the worst case. I detected this area as a possible improvement option. I tried to improve the fact that whether it is possible to do reduction by at least factor three. My idea was to check an edge being minimum from both components. If it is the case, then we can add another second
+          minimum edge to one of these components at the same step. Thus number of components could be reduced by at least factor three.  
 
 
 experiences:

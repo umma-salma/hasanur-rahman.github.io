@@ -186,7 +186,6 @@ extra_curriculars:
 publications:
   display: true
   title: Publications
-  
   items:
     - title: Peppa-X: Finding Program Test Inputs to Bound Silent Data Corruption Vulnerability in HPC Applications
       authors: Md Hasanur Rahman, Aabid Shamji, Shengjian Guo, Guanpeng Li

@@ -71,7 +71,8 @@ education:
       degree:
       details: |
         In my undergrad years, I was involved in problem solving, programming contest and hackathons . I participated numerous intra-university, NCPC, ICPC preliminary
-        contests. I've had a decent <a href="https://codeforces.com/profile/mHr029" style="color:#F08080;">codeforces</a> participation.
+        contests. I've had a decent <a href="https://codeforces.com/profile/mHr029" style="color:#F08080;">codeforces</a> participation. I also did my undergrad thesis
+        under Dr. M. Kaykobad on improving minimum spanning tree algorithm runtime.
 
 thesis:
   display: true
@@ -92,17 +93,16 @@ thesis:
 
 experiences:
   display: true
-  title: Work Experience
+  title: Experiences
   items:
     - role: Software Engineer
-      time: May. 2019 - present
+      time: 
       company: Samsung R&D Institue, Bangladesh
       tag:
       location:
       details: |
-        I am working here in an iOS project named MCPTT. It is a USA project. I am involved in developments of several modules here. One of the major modules I've implemented is Affiliation, a feature
-        by which an user can mute a group if s/he doesn't want to be notified for that group events. This feature is similar to facebook messenger group mute option. This feature uses SIP protocol for communicating
-        with server.
+        I worked as a software engineer for two years. I was involved in an iOS project. As a part of the project, I developed numerous APIs that were used as
+        communication bridges between client and server. 
 
 projects:
   display: true

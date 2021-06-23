@@ -188,7 +188,7 @@ publications:
   title: Publications
   intro: 
   items:
-    - title: 
+    - title: Peppa-X: Finding Program Test Inputs to Bound Silent Data Corruption Vulnerability in HPC Applications
       authors: 
       link: 
       conference:

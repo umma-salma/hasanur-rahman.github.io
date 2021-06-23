@@ -186,18 +186,13 @@ extra_curriculars:
 publications:
   display: true
   title: Publications
-  intro: |
-    This is all the books I wrote.
-
+  
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+    - title: Peppa-X: Finding Program Test Inputs to Bound Silent Data Corruption Vulnerability in HPC Applications
+      authors: Md Hasanur Rahman, Aabid Shamji, Shengjian Guo, Guanpeng Li
+      conference: SC'21: International Conference for High-Performance Computing, Networking, Storage and Analysis
+      details: |
+        The work is in the collaboration with Baidu USA
 
 skills:
   display: true

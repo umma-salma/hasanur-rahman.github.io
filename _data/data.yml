@@ -109,26 +109,22 @@ projects:
   title: Projects
 
   items:
-    - name: • Disease prediction BOT
+    - name: • Disease prediction BOT'18
       link: https://github.com/hasanur-rahman/Disease-Prediction-BOT
       details: |
-        This project is designed for Tadhack Hackathon, 2018. I along with three other classmates, participated in this hackathon. The idea was to predict a disease given some symptoms.
+        This project was designed for Tadhack Hackathon, 2018. I along with three other classmates, participated in this hackathon. The idea was to predict a disease given some symptoms.
         We became 2nd runner-up in that competition.
         
-    - name: • Artificial Intelligence projects
+    - name: • Data science projects
       link: https://github.com/hasanur-rahman/Artificial-Intelligence-Projects
       details: |
-        I recently invested time to develop several AI and others projects such as image classfications, car sales prediction, movie recommender etc.
+        I've interest in artificial intelligence and related things. So I developed several AI and others projects such as image classfications, car sales prediction, movie recommender etc.
 
-    - name: • Computer vision projects
-      link: https://github.com/hasanur-rahman/Deep-Learning-Projects/tree/master/Convolutional%20Neural%20Network%20Projects
-      details: |
-        I've accomplished these projects as a part Coursera <a href="https://www.coursera.org/learn/convolutional-neural-networks" style="color:black">Convolutional Neural Networks</a> course. 
         
-    - name: • Ecommerce Android App 
+    - name: • Ecommerce App (Android)
       link: https://github.com/hasanur-rahman/ECommerce-app-using-Online-MySQL
       details: |
-        I along with other classmate developed this app as a semester final project. This app is incorporated with offline My-SQL database.
+        I along with other classmates developed this app as a semester final project. This app is incorporated with offline My-SQL database.
 
 
 certificates:
@@ -197,7 +193,8 @@ publications:
     - title: "Peppa-X: Finding Program Test Inputs to Bound Silent Data Corruption Vulnerability in HPC Applications"
       authors: " Md Hasanur Rahman, Aabid Shamji, Shengjian Guo, Guanpeng Li"
       link: 
-      conference: " SC'2021: International Conference for High-Performance Computing, Networking, Storage and Analysis"
+      conference: |
+      " SC'2021: International Conference for High-Performance Computing, Networking, Storage and Analysis"
 
 
 skills:

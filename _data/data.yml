@@ -65,14 +65,13 @@ education:
       details: |
         I am a first year PhD student of computer science, under the supervision of Dr. Guanpeng Li. My research mainly lies in system dependability, which
         focuses on fault tolerant computer system.
-    - university: Bangladesh University of Engineering & Technology
+    - university: BSc in Computer Science & Engineering
       time: Feb. 2015 - Apr. 2019
-      major: BSc in Computer Science & Engineering
+      major: Bangladesh University of Engineering & Technology
       degree:
       details: |
-        In my initial undergrad years, I was more involved in problem solving, and learning new data structures, algorithms . I've participated several intra-university, NCPC, ICPC preliminary
-        contests. I've had a decent <a href="https://codeforces.com/profile/mHr029" style="color:#F08080;">codeforces</a> participation. I've also participated in Hackathons. 
-        As part of my recent works, I have accomplished several artificial intelligence projects.
+        In my undergrad years, I was involved in problem solving, programming contest and hackathons . I participated numerous intra-university, NCPC, ICPC preliminary
+        contests. I've had a decent <a href="https://codeforces.com/profile/mHr029" style="color:#F08080;">codeforces</a> participation.
 
 thesis:
   display: true

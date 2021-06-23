@@ -1,6 +1,6 @@
 intro:
   name: Md Hasanur Rahman
-  title: First year PhD student of Computer Science at University of Iowa
+  title: First year PhD student in Computer Science at University of Iowa
   avatar:
     display: true
     path: Hasan.jpg
@@ -63,7 +63,7 @@ education:
       major: University of Iowa
       degree:
       details: |
-        I am a first year PhD student of computer science, under the supervision of Dr. Guanpeng Li. My research mainly lies in system dependability, which
+        I am a first year PhD student in computer science under the supervision of Dr. Guanpeng Li. My research mainly lies in system dependability, which
         focuses on fault tolerant computer system.
     - university: BSc in Computer Science & Engineering
       time: Feb. 2015 - Apr. 2019

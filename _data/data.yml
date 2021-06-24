@@ -115,7 +115,7 @@ projects:
         This project was designed for Tadhack Hackathon, 2018. I along with three other classmates, participated in this hackathon. The idea was to predict a disease given some symptoms.
         We became 2nd runner-up in that competition.
         
-    - name: • Data science projects
+    - name: • Data Science Projects
       link: https://github.com/hasanur-rahman/Artificial-Intelligence-Projects
       details: |
         I've interest in artificial intelligence and related things. So I developed several AI and others projects such as image classfications, car sales prediction, movie recommender etc.
@@ -170,7 +170,7 @@ extra_curriculars:
       details: |
         <a href="https://codeforces.com/profile/mHr029" style="color:#8FBC8F;">Profile</a>
 
-    - name: • Ranked around 50 in several intra-university, NCPC, ICPC preliminary contests
+    - name: • Ranked around 50 in several intra-university, NCPC, ICPC contests
       link: 
       details: |
         I've solved more than 800 problems using various data structures, algorithms in several programming languages.

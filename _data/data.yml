@@ -58,7 +58,7 @@ education:
   display: true
   title: Education
   items:
-    - university: PhD in computer science
+    - university: PhD in Computer Science
       time: 
       major: University of Iowa
       degree:

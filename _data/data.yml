@@ -59,14 +59,14 @@ education:
   title: Education
   items:
     - university: PhD in Computer Science
-      time: 
+      time: 2021 - present
       major: University of Iowa
       degree:
       details: |
         I am a first year PhD student in computer science under the supervision of Dr. Guanpeng Li. My research mainly lies in system dependability, which
         focuses on fault tolerant computer system.
     - university: BSc in Computer Science & Engineering
-      time: Feb. 2015 - Apr. 2019
+      time: 2015 - 2019
       major: Bangladesh University of Engineering & Technology
       degree:
       details: |
